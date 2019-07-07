@@ -1,9 +1,7 @@
-Css Var Demo
-============
+Css Flex Inner Scroll Demo
+==========================
 
-在新的CSS中，可以使用`--someName`与`var()`来定义和使用变量。
-
-在外层元素中定义的变量，可以在内部使用。
+可以使用flex相关的属性让一个panel的body显示scroll
 
 ```
 npm run demo
